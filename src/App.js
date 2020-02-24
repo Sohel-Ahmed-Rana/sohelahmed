@@ -7,9 +7,9 @@ function App() {
   return (
     <div className="App">
     <Header/>
-      <header className="App-header">
+      
        <div>Sohel Ahmed</div>
-      </header>
+     
     </div>
   );
 }
