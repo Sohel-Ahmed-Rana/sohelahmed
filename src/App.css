@@ -26,6 +26,8 @@
 }
 .App-header div{
   background-color:gray;
+  color:black;
+  font-size:120px;
 }
 .App-link {
   color: #61dafb;
