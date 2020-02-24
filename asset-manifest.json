@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sohel/static/css/main.d1b05096.chunk.css",
+    "main.js": "/sohel/static/js/main.fe017476.chunk.js",
+    "main.js.map": "/sohel/static/js/main.fe017476.chunk.js.map",
+    "runtime-main.js": "/sohel/static/js/runtime-main.4da1bdf0.js",
+    "runtime-main.js.map": "/sohel/static/js/runtime-main.4da1bdf0.js.map",
+    "static/js/2.c86eb69f.chunk.js": "/sohel/static/js/2.c86eb69f.chunk.js",
+    "static/js/2.c86eb69f.chunk.js.map": "/sohel/static/js/2.c86eb69f.chunk.js.map",
+    "index.html": "/sohel/index.html",
+    "precache-manifest.adc37591cea2ab10f2617b70da27d762.js": "/sohel/precache-manifest.adc37591cea2ab10f2617b70da27d762.js",
+    "service-worker.js": "/sohel/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/sohel/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.c86eb69f.chunk.js.LICENSE.txt": "/sohel/static/js/2.c86eb69f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/sohel/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4da1bdf0.js",
+    "static/js/2.c86eb69f.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.fe017476.chunk.js"
+  ]
+}
