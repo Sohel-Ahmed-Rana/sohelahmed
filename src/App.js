@@ -8,7 +8,7 @@ function App() {
     <div className="App">
     <Header/>
       
-       <div>Sohel Ahmed Rana</div>
+       <div>Sohel</div>
      
     </div>
   );
